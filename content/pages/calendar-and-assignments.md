@@ -92,7 +92,7 @@ Current events
 {{< tdopen >}}
 
 
-"Misconceptions Reconceived" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-unix.oit.umass.edu/~clement/pdf/students_preconceptions_in_introductory_mechanics.pdf))
+"Misconceptions Reconceived" ([PDF](http://www-unix.oit.umass.edu/~clement/pdf/students_preconceptions_in_introductory_mechanics.pdf))
 
 "[More Than Misconceptions](https://doi.org/10.1119/1.18376)"
 
@@ -311,7 +311,7 @@ Discussion of classroom observations
 {{< tdopen >}}
 
 
-"Impact of Educational Technology on Student Achievement." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www2.gsu.edu/~wwwche/Milken%20report.pdf
+"Impact of Educational Technology on Student Achievement." ([PDF](http://www2.gsu.edu/~wwwche/Milken%20report.pdf
             ))
 
 [_Oversold and Underused_](http://books.google.com/books?id=sdSutyVQfzYC&pg=PAfrontcover)

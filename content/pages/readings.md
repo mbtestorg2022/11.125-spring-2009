@@ -12,7 +12,7 @@ Associated Press. "[School Chief: Mayors Need Control of Urban Schools](http://w
 
 Center for Education. "[Knowing What Students Know: The Science and Design of Educational Assessment](http://www.nap.edu/openbook.php?record_id=10019&page=220)." The National Academies Press, 2001.
 
-Clement, John. "Students' Preconceptions in Introductory Mechanics." _American Journal of Physics_ 50, no. 1 (1982): 66-71. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-unix.oit.umass.edu/~clement/pdf/students_preconceptions_in_introductory_mechanics.pdf))
+Clement, John. "Students' Preconceptions in Introductory Mechanics." _American Journal of Physics_ 50, no. 1 (1982): 66-71. ([PDF](http://www-unix.oit.umass.edu/~clement/pdf/students_preconceptions_in_introductory_mechanics.pdf))
 
 Committee on How People Learn. [_How Students Learn: History, Mathematics, and Science in the Classroom_](http://www.nap.edu/catalog.php?record_id=10126#toc). Edited by M. Suzanne Donovan and John D. Bransford. Washington, DC: The National Academies Press, 2005.
 
